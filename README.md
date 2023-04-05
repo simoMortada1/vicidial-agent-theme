@@ -1,0 +1,2 @@
+# vicidial-agent-theme
+# decomrece 
